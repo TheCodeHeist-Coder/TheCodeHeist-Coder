@@ -7,16 +7,8 @@ I build real-time backends, ship them with solid CI/CD, and contribute to open s
 
 ### 💼 Experience
 
-<table>
-  <tr>
-    <td><b>Full Stack Developer Intern</b><br><sub>NextGen Automation Technologies · May 2026 – Present</sub></td>
-    <td>Full-stack features and DevOps: CI/CD, Docker, servers, and deployments.</td>
-  </tr>
-  <tr>
-    <td><b>Full Stack Developer</b><br><sub>Google Developer Groups · KNIT Sultanpur</sub></td>
-    <td>Build club projects and run technical sessions using the MERN / Next.js stack.</td>
-  </tr>
-</table>
+- **Full Stack Developer Intern** @ NextGen Automation Technologies · <sub>May 2026 – Present</sub>
+- **Full Stack Developer** @ Google Developer Groups, KNIT Sultanpur
 
 ### 🔧 Open Source
 
