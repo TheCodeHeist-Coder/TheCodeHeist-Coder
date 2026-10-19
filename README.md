@@ -20,7 +20,7 @@ I build real-time backends, ship them with solid CI/CD, and contribute to open s
 | [#1539](https://github.com/OneBusAway/maglev/pull/1539) | Added `-protected-api-keys` flag + env var for flag-only production deploys |
 | [#1587](https://github.com/OneBusAway/maglev/pull/1587) | A stale bus stayed on its trip for 15 min after another bus took over |
 
-### 📫 Connect
+### Reach out to me
 
 <p align="left">
   <a href="https://linkedin.com/in/raj-kumar-54225532a" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>&nbsp;
