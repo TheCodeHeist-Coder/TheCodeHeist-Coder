@@ -1,4 +1,4 @@
-<img src="assets/raj.png" alt="Raj Kumar" width="190" align="right" />
+<img src="assets/raj-full.png" alt="Raj Kumar" width="190" align="right" />
 
 ### Hi, I'm Rajkumar 👋
 
