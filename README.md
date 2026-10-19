@@ -1,6 +1,6 @@
 <img src="assets/raj.png" alt="Raj Kumar" width="140" align="right" />
 
-### Hi, I'm Raj 👋
+### Hi, I'm Rajkumar 👋
 
 **Full Stack Developer | DevOps 🐳 | Kubernetes ☸️ | Go Developer**<br>
 I build real-time backends, ship them with solid CI/CD, and contribute to open source in Go.
