@@ -3,9 +3,7 @@
 **Full Stack & DevOps Engineer** · Go · TypeScript · Kubernetes
 I build real-time backends, ship them with solid CI/CD, and contribute to open source in Go.
 
-- 🚍 Open-source contributor to [**OneBusAway Maglev**](https://github.com/OneBusAway/maglev), a Go REST API for real-time transit data
-- 💼 Full Stack Developer Intern & Junior DevOps Engineer at **NextGen Automation Technologies**
-- 🎓 B.Tech CSE at KNIT Sultanpur · currently going deeper into Go and Kubernetes
+🚍 Go contributor to [**OneBusAway Maglev**](https://github.com/OneBusAway/maglev) · 💼 Full Stack & DevOps Intern at **NextGen Automation** · 🎓 B.Tech CSE, KNIT Sultanpur
 
 ---
 
@@ -19,15 +17,6 @@ I build real-time backends, ship them with solid CI/CD, and contribute to open s
 | [#1538](https://github.com/OneBusAway/maglev/pull/1538) | Buses without an ID overwrote each other in the real-time feed, so they vanished or appeared twice |
 | [#1539](https://github.com/OneBusAway/maglev/pull/1539) | Added `-protected-api-keys` flag + env var for flag-only production deploys |
 | [#1587](https://github.com/OneBusAway/maglev/pull/1587) | A stale bus stayed on its trip for 15 min after another bus took over |
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Rexial**](https://github.com/TheCodeHeist-Coder/Rexial) | Real-time quiz platform with live leaderboards and AI-generated questions from PDFs; scaled to 1,000+ concurrent users | TypeScript, WebSockets, Redis, PostgreSQL, AWS |
-| [**heall**](https://github.com/TheCodeHeist-Coder/heall) | Self-healing CI agent: bisects the breaking commit, proves a fix in a sandbox, opens a draft PR with evidence | Go, Docker, Git |
-| [**RateLock**](https://github.com/TheCodeHeist-Coder/ratelock) | Production-grade API rate limiting in two lines of code, with real-time monitoring | Node.js, Redis, PostgreSQL |
-| [**Spidder**](https://github.com/TheCodeHeist-Coder/Spidder) | Real-time coding battles: teams from 1v1 to 4v4 race to pass all test cases first | Next.js, TypeScript, WebSockets |
 
 ### 🛠️ Tech Stack
 
