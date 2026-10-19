@@ -3,6 +3,23 @@
 **Full Stack Developer | DevOps 🐳 | Kubernetes ☸️ | Go Developer**<br>
 I build real-time backends, ship them with solid CI/CD, and contribute to open source in Go.
 
+### 💼 Experience
+
+<table>
+  <tr>
+    <td><b>Full Stack Developer Intern</b><br><sub>NextGen Automation Technologies · May 2026 – Present</sub></td>
+    <td>Full-stack features and DevOps: CI/CD, Docker, servers, and deployments. Technical Head for <b>Ordersetu</b>.</td>
+  </tr>
+  <tr>
+    <td><b>Freelance Full Stack Developer</b><br><sub>VTL · Remote · Feb 2026 – Apr 2026</sub></td>
+    <td>Built Node.js APIs serving <b>10,000+ daily requests</b> and an inventory system used across multiple Indian states.</td>
+  </tr>
+  <tr>
+    <td><b>Full Stack Developer</b><br><sub>Google Developer Groups · KNIT Sultanpur</sub></td>
+    <td>Build club projects and run technical sessions using the MERN / Next.js stack.</td>
+  </tr>
+</table>
+
 ### 🔧 Open Source
 
 <img src="https://avatars.githubusercontent.com/u/1428806?v=4" width="22" align="center" /> &nbsp;**[OneBusAway Maglev](https://github.com/OneBusAway/maglev)** · Go REST API for real-time transit data
