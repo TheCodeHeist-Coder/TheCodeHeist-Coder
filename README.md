@@ -3,6 +3,8 @@
 **Full Stack Developer | DevOps 🐳 | Kubernetes ☸️ | Go Developer**<br>
 I build real-time backends, ship them with solid CI/CD, and contribute to open source in Go.
 
+<a href="Rajkumar-Resume.pdf"><img src="https://img.shields.io/badge/View%20My%20Resume-8957e5?style=for-the-badge&logo=readdotcv&logoColor=white" alt="View my resume" /></a>
+
 ### 💼 Experience
 
 <table>
