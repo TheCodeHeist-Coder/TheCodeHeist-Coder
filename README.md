@@ -22,6 +22,10 @@ I build real-time backends, ship them with solid CI/CD, and contribute to open s
 
 ### 📫 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://iam-raj.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-kumar-54225532a)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thecodeheist01@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/raj-kumar-54225532a" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:thecodeheist01@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" /></a>&nbsp;
+  <a href="https://iam-raj.vercel.app/" title="Portfolio"><img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Portfolio" /></a>&nbsp;
+  <a href="https://x.com/CodeHeistCoder" title="X"><img src="https://skillicons.dev/icons?i=twitter" width="40" alt="X" /></a>&nbsp;
+  <a href="https://www.instagram.com/raaz_kumar.r/" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" /></a>
+</p>
