@@ -1,3 +1,5 @@
+<img src="assets/raj.png" alt="Raj Kumar" width="150" align="right" />
+
 ## Hi, I'm Raj 👋
 
 **Full Stack & DevOps Engineer** · Go · TypeScript · Kubernetes
