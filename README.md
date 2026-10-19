@@ -2,7 +2,7 @@
 
 ### Hi, I'm Raj 👋
 
-**Full Stack & DevOps Engineer** · Go · TypeScript · Kubernetes<br>
+**Full Stack Developer | DevOps 🐳 | Kubernetes ☸️ | Go Developer**<br>
 I build real-time backends, ship them with solid CI/CD, and contribute to open source in Go.
 
 🚍 Go contributor @ [**OneBusAway Maglev**](https://github.com/OneBusAway/maglev) · 💼 DevOps Intern @ **NextGen** · 🎓 KNIT Sultanpur
@@ -19,23 +19,6 @@ I build real-time backends, ship them with solid CI/CD, and contribute to open s
 | [#1538](https://github.com/OneBusAway/maglev/pull/1538) | Buses without an ID overwrote each other in the real-time feed, so they vanished or appeared twice |
 | [#1539](https://github.com/OneBusAway/maglev/pull/1539) | Added `-protected-api-keys` flag + env var for flag-only production deploys |
 | [#1587](https://github.com/OneBusAway/maglev/pull/1587) | A stale bus stayed on its trip for 15 min after another bus took over |
-
-### 🛠️ Tech Stack
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### 📫 Connect
 
