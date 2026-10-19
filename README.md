@@ -1,13 +1,9 @@
-<img src="assets/raj-full.png" alt="Raj Kumar" width="190" align="right" />
-
 ### Hi, I'm Rajkumar 👋
 
 **Full Stack Developer | DevOps 🐳 | Kubernetes ☸️ | Go Developer**<br>
 I build real-time backends, ship them with solid CI/CD, and contribute to open source in Go.
 
 🚍 Go contributor @ [**OneBusAway Maglev**](https://github.com/OneBusAway/maglev) · 💼 DevOps Intern @ **NextGen** · 🎓 KNIT Sultanpur
-
-<br clear="right" />
 
 ### 🔧 Open Source
 
