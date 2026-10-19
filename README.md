@@ -1,7 +1,6 @@
 ### Hi, I'm Rajkumar 👋
 
-**Full Stack & DevOps Engineer · Go · Kubernetes**<br>
-I build real-time Go backends and contribute to open source. · 📄 [**Resume**](https://github.com/TheCodeHeist-Coder/TheCodeHeist-Coder/blob/main/Rajkumar-Resume.pdf)
+**Full Stack Developer | Devops 🐳 | Kubernetes ☸️ | Go Developer** · 📄 [**Resume**](https://github.com/TheCodeHeist-Coder/TheCodeHeist-Coder/blob/main/Rajkumar-Resume.pdf)
 
 ### 💼 Experience
 
