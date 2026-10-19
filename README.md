@@ -3,8 +3,6 @@
 **Full Stack Developer | DevOps 🐳 | Kubernetes ☸️ | Go Developer**<br>
 I build real-time backends, ship them with solid CI/CD, and contribute to open source in Go.
 
-🚍 Go contributor @ [**OneBusAway Maglev**](https://github.com/OneBusAway/maglev) · 💼 DevOps Intern @ **NextGen** · 🎓 KNIT Sultanpur
-
 ### 🔧 Open Source
 
 **[OneBusAway Maglev](https://github.com/OneBusAway/maglev)** (Open Transit Software Foundation) · Go, SQLite, GTFS-Realtime
