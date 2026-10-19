@@ -8,7 +8,7 @@ I build real-time backends, ship them with solid CI/CD, and contribute to open s
 <table>
   <tr>
     <td><b>Full Stack Developer Intern</b><br><sub>NextGen Automation Technologies · May 2026 – Present</sub></td>
-    <td>Full-stack features and DevOps: CI/CD, Docker, servers, and deployments. Technical Head for <b>Ordersetu</b>.</td>
+    <td>Full-stack features and DevOps: CI/CD, Docker, servers, and deployments.</td>
   </tr>
   <tr>
     <td><b>Full Stack Developer</b><br><sub>Google Developer Groups · KNIT Sultanpur</sub></td>
