@@ -1,13 +1,13 @@
-<img src="assets/raj.png" alt="Raj Kumar" width="150" align="right" />
+<img src="assets/raj.png" alt="Raj Kumar" width="140" align="right" />
 
-## Hi, I'm Raj 👋
+### Hi, I'm Raj 👋
 
-**Full Stack & DevOps Engineer** · Go · TypeScript · Kubernetes
+**Full Stack & DevOps Engineer** · Go · TypeScript · Kubernetes<br>
 I build real-time backends, ship them with solid CI/CD, and contribute to open source in Go.
 
-🚍 Go contributor to [**OneBusAway Maglev**](https://github.com/OneBusAway/maglev) · 💼 Full Stack & DevOps Intern at **NextGen Automation** · 🎓 B.Tech CSE, KNIT Sultanpur
+🚍 Go contributor @ [**OneBusAway Maglev**](https://github.com/OneBusAway/maglev) · 💼 DevOps Intern @ **NextGen** · 🎓 KNIT Sultanpur
 
----
+<br clear="right" />
 
 ### 🔧 Open Source
 
