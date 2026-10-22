@@ -16,8 +16,9 @@
 <a href="https://github.com/OneBusAway/maglev/pull/1587"><img src="https://img.shields.io/badge/%231587-Trip%20accuracy-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #1587: Trip accuracy" /></a>
 <a href="https://github.com/OneBusAway/maglev/pull/1539"><img src="https://img.shields.io/badge/%231539-API%20keys-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #1539: API keys" /></a>
 <a href="https://github.com/OneBusAway/maglev/pull/1624"><img src="https://img.shields.io/badge/%231624-Service%20alerts-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #1624: Service alerts" /></a>
+<a href="https://github.com/OneBusAway/maglev/pull/1652"><img src="https://img.shields.io/badge/%231652-Nearby%20routes-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #1652: Nearby routes" /></a>
 
-<sub>5 PRs merged · <a href="https://github.com/OneBusAway/maglev/pulls?q=is%3Apr+author%3ATheCodeHeist-Coder+is%3Amerged">see all →</a></sub>
+<sub>6 PRs merged · <a href="https://github.com/OneBusAway/maglev/pulls?q=is%3Apr+author%3ATheCodeHeist-Coder+is%3Amerged">see all →</a></sub>
 
 ### Reach out to me
 
