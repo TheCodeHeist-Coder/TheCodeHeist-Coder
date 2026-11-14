@@ -20,8 +20,9 @@
 <a href="https://github.com/OneBusAway/maglev/pull/1744"><img src="https://img.shields.io/badge/%231744-Agency%20alerts-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #1744: Agency alerts" /></a>
 <a href="https://github.com/OneBusAway/maglev/pull/1611"><img src="https://img.shields.io/badge/%231611-Multi--feed%20vehicles-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #1611: Multi-feed vehicles" /></a>
 <a href="https://github.com/OneBusAway/maglev/pull/1939"><img src="https://img.shields.io/badge/%231939-Nil%20map%20guard-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #1939: Nil map guard" /></a>
+<a href="https://github.com/OneBusAway/maglev/pull/2082"><img src="https://img.shields.io/badge/%232082-Timestamp%20fix-8957e5?style=flat-square&logo=github&logoColor=white" alt="PR #2082: Timestamp fix" /></a>
 
-<sub>9 PRs merged · <a href="https://github.com/OneBusAway/maglev/pulls?q=is%3Apr+author%3ATheCodeHeist-Coder+is%3Amerged">see all →</a></sub>
+<sub>10 PRs merged · <a href="https://github.com/OneBusAway/maglev/pulls?q=is%3Apr+author%3ATheCodeHeist-Coder+is%3Amerged">see all →</a></sub>
 
 ### Reach out to me
 
